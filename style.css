@@ -1,0 +1,70 @@
+body{
+  text-align: center;
+  margin-top: 64px;
+}
+
+#div1 img{
+  margin-bottom: 32px;
+}
+
+
+h1{
+  color: #3F3D56;
+  font-family: 'Dosis', sans-serif;
+  font-weight: 500;
+  margin-bottom: 16px;
+}
+h1 span{
+  color: #EE24FF;
+  font-weight: 700;
+}
+
+
+#div2 p{
+  color: #828282;  
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 400;
+  font-size: 15px;
+  font-style: normal;
+  margin-bottom: 32px;  
+}
+#div2 span{
+  color: #3F3D56;
+  font-weight: bold;
+}
+
+
+.line{
+  width: 568px;
+  height: 0;
+  margin: 0 auto 8px;
+  border: 1px #ECEFF2 solid;
+  margin-bottom: 16px;
+}
+
+
+#div3{
+  font-family: 'Open Sans', sans-serif;
+  color: #828282;
+  font-size: 15px;
+  font-style: normal;
+  margin-bottom: 80px;
+}
+
+
+#footer span{
+  font-family: 'Open Sans', sans-serif;
+  color: #3F3D56;
+  font-weight: 700;
+}
+#footer a + a{
+  margin-left: 28px;
+}
+#footer{
+  margin-bottom: 40.83px;
+}
+
+#wave{
+  flex-shrink: 0;
+  fill: #3F3D56;
+}
